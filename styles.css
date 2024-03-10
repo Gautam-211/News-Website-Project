@@ -58,6 +58,16 @@ nav{
     padding: 8px 0px;
 }
 
+.company-logo{
+    display: flex;
+    align-items: center;
+    color:#2294ed;
+}
+
+.company-logo:hover{
+    color:#18598a
+}
+
 .company-logo img{
     width:120px;
     mix-blend-mode: multiply;
